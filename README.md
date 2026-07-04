@@ -80,9 +80,9 @@ rarfile.UNRAR_TOOL = r"C:\Program Files\WinRAR\UnRAR.exe"
 ## Project Structure
 
 ```
-FULL COMPILATION/
+root/
 │
-├── LAATEST WITH PORTFOLIO.rar
+├── demo.rar
 ├── extract.py
 └── output/
 ```
